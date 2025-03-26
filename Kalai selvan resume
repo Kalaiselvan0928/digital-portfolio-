@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - M. Kalai Selvan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            color: #2E8B57;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            background: #2E8B57;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .skills ul, .interests ul {
+            list-style: none;
+            padding: 0;
+        }
+        .skills ul li, .interests ul li {
+            background: #e0f7fa;
+            margin: 5px 0;
+            padding: 5px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>M. Kalai Selvan</h1>
+        <h3>Cyber Security</h3>
+    </div>
+
+    <div class="section about">
+        <h2>About Me</h2>
+        <p>To secure a challenging role as an ethical hacker in a reputable organization where I can apply my skills and knowledge to contribute to the company's growth and success.</p>
+    </div>
+
+    <div class="section contact-info">
+        <h2>Contact</h2>
+        <p><strong>Phone:</strong> 8053713950</p>
+        <p><strong>Email:</strong> mkalai955@gmail.com</p>
+        <p><strong>LinkedIn/Portfolio:</strong> <a href="#">Click Here</a></p>
+        <p><strong>Address:</strong> M.E.S Road, No-14, Bharathiyar Street, East Tambaram, Chennai - 600059</p>
+    </div>
+
+    <div class="section education">
+        <h2>Education</h2>
+        <p><strong>Madras University</strong></p>
+        <p>PERI College of Arts and Science - BCA (2023 - 2026)</p>
+    </div>
+
+    <div class="section skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>JavaScript</li>
+            <li>CSS</li>
+            <li>HTML</li>
+            <li>Spreadsheet</li>
+            <li>Slide Presentation</li>
+            <li>Problem-Solving</li>
+            <li>Teamwork</li>
+            <li>Time Management</li>
+            <li>Creativity & Punctuality</li>
+        </ul>
+    </div>
+
+    <div class="section courses">
+        <h2>Courses</h2>
+        <p>Ethical Hacking</p>
+    </div>
+
+    <div class="section interests">
+        <h2>Interests</h2>
+        <ul>
+            <li>Cyber Security</li>
+            <li>Ethical Hacking</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
